@@ -9,4 +9,4 @@ Html ve Css kullanılmıştır.
 <h2>Ekran Görüntüsü</h2>
 
 
-![](uddemigtur.gif)
+![](udemigtur.gif)
