@@ -1,4 +1,4 @@
-<h1>merve</h1>
+<h1>Udemig Tur</h1>
 
 Bu dinamik websitesi Udemigtur müşterilerine varolan servislere kolay ulaşım imkanı sağlar.
 
@@ -9,4 +9,4 @@ Html ve Css kullanılmıştır.
 <h2>Ekran Görüntüsü</h2>
 
 
-![](udemigyeni.gif)
+![](udemigtur2.gif)
