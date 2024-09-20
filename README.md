@@ -1,12 +1,8 @@
 <h1>Udemig Tur</h1>
 
-Bu dinamik websitesi Udemigtur müşterilerine varolan servislere kolay ulaşım imkanı sağlar.
+In this project, the basic features of HTML and CSS were used. Also the project was designed responsively.
 
-<h2>Harici Kullanımlar</h2>
-
-Html ve Css kullanılmıştır.
-
-<h2>Ekran Görüntüsü</h2>
+<h2>Preview of the project</h2>
 
 
 ![](udemig2.gif)
